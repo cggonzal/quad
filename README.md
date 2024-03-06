@@ -5,7 +5,7 @@ Code will be coming soon. In the mean time check out: [Make: Drones -- Teach an 
 
 Overall design:
 - Brushed Motors
-- Off the shelf radio (may tweak design to make a custom receiver + radio transmitter pai)
+- Off the shelf radio (may tweak design to make a custom receiver + radio transmitter pair)
 - State estimation done with BNO085
 - MCU is a raspberry pi pico (RP2040)
 
