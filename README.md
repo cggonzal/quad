@@ -1,5 +1,6 @@
 # quad
-electrical layout + code for a small quadcopter that fits on a single board
+electrical layout + code for a small quadcopter that fits on a single board. 
+Code will be coming soon. In the mean time check out: [Make: Drones -- Teach an Arduino to Fly](https://www.amazon.com/Make-Drones-Teach-Arduino-Fly/dp/1680451715#:~:text=DRONES%3A%20TEACH%20AN%20ARDUINO%20TO%20FLY%20is%20one%20of%20the,enough%20to%20require%20FAA%20registration).
 
 Overall design:
 - Brushed Motors
